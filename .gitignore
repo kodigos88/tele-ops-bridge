@@ -1,0 +1,27 @@
+# Configuration & Secrets
+config.php
+.env
+*.local
+
+# Runtime Data Files
+task_queue.json
+cola_tareas.json
+node_status.json
+pc_status.json
+session_history.json
+historial_chat.json
+*.log
+
+# Audio & Temporary files
+*.mp3
+*.ogg
+*.wav
+temp/
+tmp/
+
+# OS and Editor metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+node_modules/
